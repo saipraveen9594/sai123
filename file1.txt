@@ -12,3 +12,5 @@
 </html>
 adding line1
 adding line2
+aws cloud
+azure cloud
